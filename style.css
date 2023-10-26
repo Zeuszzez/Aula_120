@@ -1,0 +1,50 @@
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px rgb(224, 23, 23);
+  line-height: 2;
+  color:ghostwhite;
+  /*aumentar fonte*/
+}
+
+.headingDiv
+{
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+  /*add margem externa*/
+}
+
+.headingDiv2
+{
+  font-size: 18px ;
+}
+
+.resultado
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+}
+
+body{ background-color:black ;}
+
+div{color: white;
+font-size:medium;}
+
+.rodaPe{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: right;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    color:lightcoral  
+}
+
+canvas{
+  border: 5px solid red;
+  border-radius: 20px;
+  box-shadow:5px 5px 5px red;
+}
